@@ -12,5 +12,7 @@ PROJETO LOLLIPOP FRONT END
 
 ![image](https://user-images.githubusercontent.com/54966958/115473706-90f4b780-a212-11eb-9557-c1a966f1a2a4.png)
 
+![image](https://user-images.githubusercontent.com/54966958/115474806-a8cd3b00-a214-11eb-9d4e-103ef0c99b81.png)
+
 ![image](https://user-images.githubusercontent.com/54966958/115473419-175cc980-a212-11eb-9e05-5e52296bf754.png)
 
